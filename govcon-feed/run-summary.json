@@ -1,0 +1,98 @@
+{
+  "window_start": "2026-09-09",
+  "window_end": "2026-10-09",
+  "api_last_updated": "10/09/2026",
+  "awards_scanned": 400,
+  "top10": [
+    {
+      "recipient": "WHITE WOLF MANAGED SERVICES COMPANY",
+      "amount": 20869586.6,
+      "agency": "Department of State",
+      "date": "2026-09-30",
+      "prior_awards_5y": 1,
+      "approx_first_time": true,
+      "score": 6
+    },
+    {
+      "recipient": "KOMAN CONSTRUCTION MANAGEMENT, LLC",
+      "amount": 12890322.57,
+      "agency": "Department of Homeland Security",
+      "date": "2026-09-30",
+      "prior_awards_5y": 1,
+      "approx_first_time": true,
+      "score": 6
+    },
+    {
+      "recipient": "PEACHTREE LUMBER COMPANY, INC",
+      "amount": 99575262.0,
+      "agency": "Department of Agriculture",
+      "date": "2026-10-06",
+      "prior_awards_5y": 1,
+      "approx_first_time": true,
+      "score": 5
+    },
+    {
+      "recipient": "SWISH DATA CORPORATION",
+      "amount": 47086924.7,
+      "agency": "Department of Homeland Security",
+      "date": "2026-09-25",
+      "prior_awards_5y": 389,
+      "approx_first_time": false,
+      "score": 3
+    },
+    {
+      "recipient": "KOMAN ADVANTAGE, LLC",
+      "amount": 24701578.61,
+      "agency": "Department of Homeland Security",
+      "date": "2026-09-30",
+      "prior_awards_5y": 11,
+      "approx_first_time": false,
+      "score": 3
+    },
+    {
+      "recipient": "NCS TECHNOLOGIES INC",
+      "amount": 20884821.0,
+      "agency": "Department of Homeland Security",
+      "date": "2026-09-30",
+      "prior_awards_5y": 546,
+      "approx_first_time": false,
+      "score": 3
+    },
+    {
+      "recipient": "OCEAN CONSTRUCTION SERVICES INC",
+      "amount": 19971618.0,
+      "agency": "Department of Homeland Security",
+      "date": "2026-09-28",
+      "prior_awards_5y": 37,
+      "approx_first_time": false,
+      "score": 3
+    },
+    {
+      "recipient": "METGREEN SOLUTIONS INC",
+      "amount": 19054134.66,
+      "agency": "Department of Homeland Security",
+      "date": "2026-09-25",
+      "prior_awards_5y": 761,
+      "approx_first_time": false,
+      "score": 3
+    },
+    {
+      "recipient": "DYNAMIC SYSTEMS INC",
+      "amount": 18720509.39,
+      "agency": "Department of the Treasury",
+      "date": "2026-09-29",
+      "prior_awards_5y": 1271,
+      "approx_first_time": false,
+      "score": 3
+    },
+    {
+      "recipient": "BIZSOLUTIONS 360 INC.",
+      "amount": 18535258.0,
+      "agency": "Department of State",
+      "date": "2026-09-30",
+      "prior_awards_5y": 36,
+      "approx_first_time": false,
+      "score": 3
+    }
+  ]
+}
