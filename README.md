@@ -1,4 +1,4 @@
-# public-data-builds
+# zerocost-labs
 
 Reverse-engineering free public data into real builds. Every project here starts from data anyone can download for $0 and ends with something you can run, demo, and post.
 
