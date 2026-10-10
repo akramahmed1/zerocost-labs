@@ -1,0 +1,9 @@
+rank,target,tic,period_d,duration_d,depth_ppm,snr,bls_power,n_cadences,note
+1,TOI 1338,TIC 260128333,14.6022,0.2500,2518,30.4,0.002,31173,"candidate signal, needs professional follow-up"
+2,TOI 270,TIC 259377017,5.6605,0.0500,3474,38.5,0.001,27424,"candidate signal, needs professional follow-up"
+3,TOI 216,TIC 55652896,24.2421,0.2000,10662,23.3,0.001,33436,"candidate signal, needs professional follow-up"
+4,TOI 776,TIC 307210830,3.6912,0.0500,1336,39.7,0.000,34596,"candidate signal, needs professional follow-up"
+5,TOI 700,TIC 150428135,16.0503,0.0500,2501,16.3,0.000,30657,"candidate signal, needs professional follow-up"
+6,TOI 125,TIC 52368076,4.6549,0.1000,773,20.9,0.000,36574,"candidate signal, needs professional follow-up"
+7,TOI 849,TIC 183985250,0.7926,0.0500,385,4.2,0.001,112971,"candidate signal, needs professional follow-up"
+8,TOI 178,TIC 251848941,16.2887,0.0500,630,1.5,0.000,107953,"candidate signal, needs professional follow-up"
